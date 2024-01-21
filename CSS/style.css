@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: azure;
+    padding: 20px;
+}
+.contain1{
+    display: flex;
+}
+.pic1{
+    padding: 20px;
+    float: left;
+    border-radius: 100%;
+}
+.section1{
+    padding-left: 50px;
+}
+.footer{
+    text-align: center;
+    color: rgb(135, 135, 138);
+    padding-top: 10px;
+}
